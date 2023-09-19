@@ -36,3 +36,4 @@ for teacher in teachers:
     for g in gt1:
 
         print(g.get_text().replace(u'\xa0', ''))
+    #结束啦
